@@ -1,4 +1,8 @@
 ##### This script is created to run drafts ####
+import datetime
+
+today = datetime.date.today()
+
 name = 'Hello module world!'
 print name 
 
@@ -11,10 +15,10 @@ print name
 #x## Dealing with string variables
 print 'The Begining of new chapter'
 
-fruit = 'Mario Javier Carrillo' # THis is funny!!!
+fruit = 'Mario Javier Carrillo is a fuit' # THis is funny!!!
 
 # Mario is a fruit???
-print fruit
+print fruit, today
 
 print 'from the book'
 index = 0 
