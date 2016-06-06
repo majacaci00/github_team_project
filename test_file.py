@@ -11,8 +11,8 @@ print name
 #x## Dealing with string variables
 print 'The Begining of new chapter'
 
-fruit = 'Mario Javier Carrillo'
-print fruit
+name = 'Mario Javier Carrillo'
+print name
 
 print 'from the book'
 index = 0 
