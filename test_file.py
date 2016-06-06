@@ -11,7 +11,9 @@ print name
 #x## Dealing with string variables
 print 'The Begining of new chapter'
 
-fruit = 'Mario Javier Carrillo'
+fruit = 'Mario Javier Carrillo' # THis is funny!!!
+
+# Mario is a fruit???
 print fruit
 
 print 'from the book'
